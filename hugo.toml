@@ -1,0 +1,30 @@
+baseURL = "https://blog.cyberforks.com/"
+languageCode = "en-us"
+title = "Cyberforks"
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  readingTime = true
+  showFullContent = false
+  showPrevNext = true
+
+  [params.logo]
+    logoText = "CYBERFORKS 💀"
+    logoHomeLink = "/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+  [[menu.main]]
+    identifier = "cyberforks"
+    name = "cyberforks.com"
+    url = "https://cyberforks.com"
