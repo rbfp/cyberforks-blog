@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://blog.cyberforks.com/sitemap.xml
