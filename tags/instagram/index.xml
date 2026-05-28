@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Instagram on Cyberforks</title><link>https://blog.cyberforks.com/tags/instagram/</link><description>Recent content in Instagram on Cyberforks</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cyberforks.com/tags/instagram/index.xml" rel="self" type="application/rss+xml"/><item><title>Automating Instagram Without the Instagram API</title><link>https://blog.cyberforks.com/posts/instagram-no-api/</link><pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/instagram-no-api/</guid><description>Meta&amp;#39;s API is a nightmare of Facebook Pages and OAuth scopes. So we automated it with a browser instead.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Instagram on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/instagram/</link>
+    <description>Recent content in Instagram on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Instagram Without the Instagram API</title>
+      <link>https://blog.cyberforks.com/posts/instagram-no-api/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/instagram-no-api/</guid>
+      <description>Meta&amp;#39;s API is a nightmare of Facebook Pages and OAuth scopes. So we automated it with a browser instead.</description>
+    </item>
+  </channel>
+</rss>

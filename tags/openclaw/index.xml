@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Openclaw on Cyberforks</title><link>https://blog.cyberforks.com/tags/openclaw/</link><description>Recent content in Openclaw on Cyberforks</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cyberforks.com/tags/openclaw/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Set Up Your Own AI Agent with OpenClaw, Discord, and Claude</title><link>https://blog.cyberforks.com/posts/openclaw-discord-claude-setup/</link><pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/openclaw-discord-claude-setup/</guid><description>A step-by-step guide to setting up a personal AI agent using OpenClaw, Discord as the interface, and Anthropic&amp;#39;s Claude as the model.</description></item><item><title>The Morning Briefing: How My AI Starts My Day</title><link>https://blog.cyberforks.com/posts/morning-briefing/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/morning-briefing/</guid><description>A cron job, a weather API, and an email scanner walk into a Discord channel. Here&amp;#39;s how my AI delivers a daily briefing that actually helps.</description></item><item><title>Prompt Injection Is Real — Here's How I Defend Against It</title><link>https://blog.cyberforks.com/posts/prompt-injection-defense/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/prompt-injection-defense/</guid><description>The practical guardrails I built into my AI assistant to handle malicious content in fetched web pages, emails, and external data.</description></item><item><title>The Dual-Channel Auth Token Pattern for AI Actions</title><link>https://blog.cyberforks.com/posts/auth-token-pattern/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/auth-token-pattern/</guid><description>A security pattern for authorizing sensitive AI actions: generate a token, post it to one channel, confirm in another. Simple, auditable, and hard to spoof.</description></item><item><title>Why I Run a Personal AI Agent on My Own Machine</title><link>https://blog.cyberforks.com/posts/openclaw-setup/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/openclaw-setup/</guid><description>OpenClaw, self-hosted LLM routing, Discord as a command surface, and why this beats every chatbot app I&amp;#39;ve tried.</description></item><item><title>cyber for breakfast. shitpost for dinner.</title><link>https://blog.cyberforks.com/posts/hello-world/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/hello-world/</guid><description>&lt;p&gt;Every security practitioner eventually gets tired of the noise — the endless stream of CVE notifications, patch Tuesdays, and vendor webinars that promise to solve the problem of humans being humans.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Openclaw on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/openclaw/</link>
+    <description>Recent content in Openclaw on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/openclaw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up Your Own AI Agent with OpenClaw, Discord, and Claude</title>
+      <link>https://blog.cyberforks.com/posts/openclaw-discord-claude-setup/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/openclaw-discord-claude-setup/</guid>
+      <description>A step-by-step guide to setting up a personal AI agent using OpenClaw, Discord as the interface, and Anthropic&amp;#39;s Claude as the model.</description>
+    </item>
+    <item>
+      <title>The Morning Briefing: How My AI Starts My Day</title>
+      <link>https://blog.cyberforks.com/posts/morning-briefing/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/morning-briefing/</guid>
+      <description>A cron job, a weather API, and an email scanner walk into a Discord channel. Here&amp;#39;s how my AI delivers a daily briefing that actually helps.</description>
+    </item>
+    <item>
+      <title>Prompt Injection Is Real — Here&#39;s How I Defend Against It</title>
+      <link>https://blog.cyberforks.com/posts/prompt-injection-defense/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/prompt-injection-defense/</guid>
+      <description>The practical guardrails I built into my AI assistant to handle malicious content in fetched web pages, emails, and external data.</description>
+    </item>
+    <item>
+      <title>The Dual-Channel Auth Token Pattern for AI Actions</title>
+      <link>https://blog.cyberforks.com/posts/auth-token-pattern/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/auth-token-pattern/</guid>
+      <description>A security pattern for authorizing sensitive AI actions: generate a token, post it to one channel, confirm in another. Simple, auditable, and hard to spoof.</description>
+    </item>
+    <item>
+      <title>Why I Run a Personal AI Agent on My Own Machine</title>
+      <link>https://blog.cyberforks.com/posts/openclaw-setup/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/openclaw-setup/</guid>
+      <description>OpenClaw, self-hosted LLM routing, Discord as a command surface, and why this beats every chatbot app I&amp;#39;ve tried.</description>
+    </item>
+    <item>
+      <title>cyber for breakfast. shitpost for dinner.</title>
+      <link>https://blog.cyberforks.com/posts/hello-world/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/hello-world/</guid>
+      <description>&lt;p&gt;Every security practitioner eventually gets tired of the noise — the endless stream of CVE notifications, patch Tuesdays, and vendor webinars that promise to solve the problem of humans being humans.&lt;/p&gt;
 &lt;p&gt;So we built something.&lt;/p&gt;
 &lt;p&gt;This blog is where Cyberforks documents what it actually looks like to automate the boring parts, build AI-assisted workflows for real security work, and occasionally meme about the absurdity of it all.&lt;/p&gt;
-&lt;p&gt;Some posts will be technical. Some will be sarcastic. All of them will be real — pulled from actual work, actual incidents, actual moments of &amp;ldquo;why does this not exist yet?&amp;rdquo;&lt;/p&gt;</description></item><item><title>I Gave My AI Assistant a Security Clearance System (And Audit Logs)</title><link>https://blog.cyberforks.com/posts/ai-security-clearance-system/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/ai-security-clearance-system/</guid><description>Building Tier 1/2/3 confirmation gates, auth tokens, and dual-channel security into an AI assistant workflow.</description></item><item><title>What Happens When You Make an AI the Dungeon Master</title><link>https://blog.cyberforks.com/posts/ai-dungeon-master/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/ai-dungeon-master/</guid><description>Running Curse of Strahd with an AI DM — how it works, where it breaks, and why it&amp;#39;s surprisingly good at dramatic tension.</description></item></channel></rss>
+&lt;p&gt;Some posts will be technical. Some will be sarcastic. All of them will be real — pulled from actual work, actual incidents, actual moments of &amp;ldquo;why does this not exist yet?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Gave My AI Assistant a Security Clearance System (And Audit Logs)</title>
+      <link>https://blog.cyberforks.com/posts/ai-security-clearance-system/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/ai-security-clearance-system/</guid>
+      <description>Building Tier 1/2/3 confirmation gates, auth tokens, and dual-channel security into an AI assistant workflow.</description>
+    </item>
+    <item>
+      <title>What Happens When You Make an AI the Dungeon Master</title>
+      <link>https://blog.cyberforks.com/posts/ai-dungeon-master/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/ai-dungeon-master/</guid>
+      <description>Running Curse of Strahd with an AI DM — how it works, where it breaks, and why it&amp;#39;s surprisingly good at dramatic tension.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyberforks</title><link>https://blog.cyberforks.com/tags/cyberforks/</link><description>Recent content on Cyberforks</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cyberforks.com/tags/cyberforks/index.xml" rel="self" type="application/rss+xml"/><item><title>I Automated My Bookkeeping With an AI and a Spreadsheet</title><link>https://blog.cyberforks.com/posts/bookkeeping-automation/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/bookkeeping-automation/</guid><description>How a simple command in Discord now handles receipt filing, PDF uploads, and spreadsheet entries automatically.</description></item><item><title>Automating Instagram Without the Instagram API</title><link>https://blog.cyberforks.com/posts/instagram-no-api/</link><pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/instagram-no-api/</guid><description>Meta&amp;#39;s API is a nightmare of Facebook Pages and OAuth scopes. So we automated it with a browser instead.</description></item><item><title>Building a Pentest TTP Vault with Obsidian and an AI Scribe</title><link>https://blog.cyberforks.com/posts/pentest-ttp-vault/</link><pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/pentest-ttp-vault/</guid><description>A living knowledge base of techniques, tools, and attack chains — with a hard public/private separation and an AI scribe to reduce the friction.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/cyberforks/</link>
+    <description>Recent content on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/cyberforks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Automated My Bookkeeping With an AI and a Spreadsheet</title>
+      <link>https://blog.cyberforks.com/posts/bookkeeping-automation/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/bookkeeping-automation/</guid>
+      <description>How a simple command in Discord now handles receipt filing, PDF uploads, and spreadsheet entries automatically.</description>
+    </item>
+    <item>
+      <title>Automating Instagram Without the Instagram API</title>
+      <link>https://blog.cyberforks.com/posts/instagram-no-api/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/instagram-no-api/</guid>
+      <description>Meta&amp;#39;s API is a nightmare of Facebook Pages and OAuth scopes. So we automated it with a browser instead.</description>
+    </item>
+    <item>
+      <title>Building a Pentest TTP Vault with Obsidian and an AI Scribe</title>
+      <link>https://blog.cyberforks.com/posts/pentest-ttp-vault/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/pentest-ttp-vault/</guid>
+      <description>A living knowledge base of techniques, tools, and attack chains — with a hard public/private separation and an AI scribe to reduce the friction.</description>
+    </item>
+  </channel>
+</rss>

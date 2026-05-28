@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Promptinjection on Cyberforks</title><link>https://blog.cyberforks.com/tags/promptinjection/</link><description>Recent content in Promptinjection on Cyberforks</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.cyberforks.com/tags/promptinjection/index.xml" rel="self" type="application/rss+xml"/><item><title>Prompt Injection Is Real — Here's How I Defend Against It</title><link>https://blog.cyberforks.com/posts/prompt-injection-defense/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.cyberforks.com/posts/prompt-injection-defense/</guid><description>The practical guardrails I built into my AI assistant to handle malicious content in fetched web pages, emails, and external data.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Promptinjection on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/promptinjection/</link>
+    <description>Recent content in Promptinjection on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/promptinjection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt Injection Is Real — Here&#39;s How I Defend Against It</title>
+      <link>https://blog.cyberforks.com/posts/prompt-injection-defense/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/prompt-injection-defense/</guid>
+      <description>The practical guardrails I built into my AI assistant to handle malicious content in fetched web pages, emails, and external data.</description>
+    </item>
+  </channel>
+</rss>
