@@ -1,30 +1,83 @@
 baseURL = "https://blog.cyberforks.com/"
 languageCode = "en-us"
 title = "Cyberforks"
-theme = "terminal"
-paginate = 5
+theme = "PaperMod"
+paginate = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableInlineShortcodes = true
+enableEmoji = true
+
+[minify]
+  disableXML = true
+  minifyOutput = true
 
 [params]
-  contentTypeName = "posts"
-  themeColor = "green"
-  showMenuItems = 2
-  fullWidthTheme = false
-  centerTheme = false
-  autoCover = true
-  readingTime = true
-  showFullContent = false
-  showPrevNext = true
+  env = "production"
+  description = "Cyberforks — Security workflows that don't suck."
+  author = "Cyberforks"
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  ShowToc = false
+  DateFormat = "January 2, 2006"
+  mainSections = ["posts"]
 
-  [params.logo]
-    logoText = "CYBERFORKS 💀"
-    logoHomeLink = "/"
+  [params.homeInfoParams]
+    Title = "CYBERFORKS 💀"
+    Content = "Security workflows that don't suck."
+
+  [params.label]
+    text = "Cyberforks"
+    icon = "/images/logo.png"
+    iconHeight = 40
+
+  [params.assets]
+    favicon = "/favicon.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    theme_color = "#2e2e33"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/rbfp"
+
+  [[params.socialIcons]]
+    name = "link"
+    url = "https://cyberforks.com"
+
+  [params.schema]
+    type = "Organization"
+    [params.schema.organization]
+      sameAs = ["https://github.com/rbfp", "https://cyberforks.com"]
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about"
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
   [[menu.main]]
     identifier = "cyberforks"
     name = "cyberforks.com"
     url = "https://cyberforks.com"
+    weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "catppuccin-macchiato"
+  [markup.goldmark.renderer]
+    unsafe = true

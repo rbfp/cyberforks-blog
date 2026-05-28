@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Claude-Code on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/claude-code/</link>
+    <description>Recent content in Claude-Code on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watching the watchers: how we observe a fleet of Claude Code daemons</title>
+      <link>https://blog.cyberforks.com/posts/watching-the-watchers/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/watching-the-watchers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The tool we wrote to make &lt;code&gt;tail -F&lt;/code&gt; work again, and what it taught us about running AI agents as infrastructure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cyberforks runs a fleet of long-lived AI agents. They book-keep, draft posts, manage social media, scope client engagements, and keep me honest about whether I actually went to the gym this week. Each agent runs as a macOS LaunchAgent — a background daemon, persistent across reboots, listening to its own slice of Discord, reading and writing files, and using tools.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

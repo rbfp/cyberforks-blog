@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dnd on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/dnd/</link>
+    <description>Recent content in Dnd on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Happens When You Make an AI the Dungeon Master</title>
+      <link>https://blog.cyberforks.com/posts/ai-dungeon-master/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/ai-dungeon-master/</guid>
+      <description>Running Curse of Strahd with an AI DM — how it works, where it breaks, and why it&amp;#39;s surprisingly good at dramatic tension.</description>
+    </item>
+  </channel>
+</rss>
