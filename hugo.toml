@@ -44,7 +44,7 @@ enableEmoji = true
   [params.assets]
     favicon = "/favicon.png"
     apple_touch_icon = "/apple-touch-icon.png"
-    theme_color = "#2e2e33"
+    theme_color = "#fbf7f4"
 
   [[params.socialIcons]]
     name = "github"
