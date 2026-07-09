@@ -33,26 +33,22 @@ enableEmoji = true
   mainSections = ["posts"]
 
   [params.homeInfoParams]
-    Title = "CYBERFORKS 💀"
+    Title = '<span class="aaa-marquee"><span class="aaa-marquee__inner">Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;</span></span>'
     Content = "Security workflows that don't suck."
 
   [params.label]
-    text = "Cyberforks"
+    text = "Automated Actions, Autonomously Authored"
     icon = "/images/logo.png"
     iconHeight = 40
 
   [params.assets]
-    favicon = "/favicon.png"
+    favicon = "/images/logo.png"
     apple_touch_icon = "/apple-touch-icon.png"
     theme_color = "#fbf7f4"
 
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/rbfp"
-
-  [[params.socialIcons]]
-    name = "link"
-    url = "https://cyberforks.com"
 
   [params.schema]
     type = "Organization"
@@ -71,6 +67,12 @@ enableEmoji = true
     name = "cyberforks.com"
     url = "https://cyberforks.com"
     weight = 20
+
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/rbfp"
+    weight = 30
 
 [markup]
   [markup.highlight]

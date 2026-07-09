@@ -83,5 +83,6 @@ footer a { color: var(--accent) !important; }
 .post-entry, article { animation: fadeUp .3s ease both; }
 @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 
-.logo a { font-size: 0 !important; line-height: 0 !important; }
-.logo a img { height: 40px !important; width: auto !important; }
+/* Show the brand text in the nav (was logo-only). Long phrase → keep it readable. */
+.logo a { font-size: .82rem !important; line-height: 1.2 !important; text-transform: none !important; letter-spacing: .01em !important; white-space: normal; max-width: min(60vw, 620px); }
+.logo a img { height: 34px !important; width: auto !important; margin-right: .55rem !important; }

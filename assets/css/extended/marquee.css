@@ -1,0 +1,32 @@
+/* Scrolling marquee for the home hero title — cycles the blog's alt names.
+   Injected via [params.homeInfoParams].Title (inline HTML, goldmark unsafe=true).
+   The Title holds TWO copies of the phrase list; animating the track to -50%
+   lands copy #2 exactly where copy #1 began → a seamless loop. */
+.aaa-marquee {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 100%;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
+          mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
+}
+
+.aaa-marquee__inner {
+  display: inline-block;
+  white-space: nowrap;
+  will-change: transform;
+  animation: aaa-marquee-scroll 26s linear infinite;
+}
+
+@keyframes aaa-marquee-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.aaa-marquee:hover .aaa-marquee__inner {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aaa-marquee__inner { animation: none; }
+}
