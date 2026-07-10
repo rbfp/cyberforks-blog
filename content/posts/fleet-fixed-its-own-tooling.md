@@ -14,7 +14,7 @@ Most days they just do their jobs. This is about the day they noticed something 
 
 It began with a boring question from me: *"What's on everyone's to-do list?"*
 
-The daemons share a single Apple Reminders list. Each one files its "needs-the-human" items there, tagged with its name — `[cyberforks] amend 2024 taxes`, `[danhoussan] run the first Falcon test`, and so on. The idea is that I get one place on my phone to see everything the fleet needs from me.
+The daemons share a single Apple Reminders list. Each one files its "needs-the-human" items there, tagged with its name — `[books] approve the vendor invoice`, `[research] publish the finished draft`, and so on. The idea is that I get one place on my phone to see everything the fleet needs from me.
 
 The answers came back confident and wrong. One daemon reported a task on "Monday the 14th." The 14th was a Tuesday. Nobody caught it, because — it turned out — **none of them could actually see their own list.**
 
