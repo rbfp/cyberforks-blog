@@ -6,36 +6,8 @@
     <description>Recent content in Tags on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ai-Agents</title>
-      <link>https://blog.cyberforks.com/tags/ai-agents/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/ai-agents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://blog.cyberforks.com/tags/automation/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Claude-Code</title>
-      <link>https://blog.cyberforks.com/tags/claude-code/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/claude-code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Macos</title>
-      <link>https://blog.cyberforks.com/tags/macos/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/macos/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Agents</title>
       <link>https://blog.cyberforks.com/tags/agents/</link>
@@ -48,6 +20,13 @@
       <link>https://blog.cyberforks.com/tags/ai/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude-Code</title>
+      <link>https://blog.cyberforks.com/tags/claude-code/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/claude-code/</guid>
       <description></description>
     </item>
     <item>
@@ -97,6 +76,13 @@
       <link>https://blog.cyberforks.com/tags/tutorial/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://blog.cyberforks.com/tags/automation/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/automation/</guid>
       <description></description>
     </item>
     <item>

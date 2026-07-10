@@ -6,15 +6,8 @@
     <description>Recent content in Automation on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Day Our AI Fleet Fixed Its Own Tooling</title>
-      <link>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</guid>
-      <description>A blind spot in our own tooling, root-caused and shipped in one afternoon — and the tool caught its author&amp;rsquo;s mistake the second it went live.</description>
-    </item>
     <item>
       <title>The Morning Briefing: How My AI Starts My Day</title>
       <link>https://blog.cyberforks.com/posts/morning-briefing/</link>
