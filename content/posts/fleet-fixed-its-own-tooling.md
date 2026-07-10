@@ -1,7 +1,7 @@
 ---
 title: "The Day Our AI Fleet Fixed Its Own Tooling"
 date: 2026-07-10
-draft: false
+draft: true
 tags: ["ai-agents", "automation", "claude-code", "macos"]
 summary: "A blind spot in our own tooling, root-caused and shipped in one afternoon — and the tool caught its author's mistake the second it went live."
 ---
