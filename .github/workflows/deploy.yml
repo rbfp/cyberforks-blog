@@ -1,0 +1,51 @@
+name: Deploy Hugo blog to GitHub Pages
+
+# Auto-deploy: on push to main, build the Hugo site and publish the built
+# output to the `gh-pages` branch (which GitHub Pages serves at
+# blog.cyberforks.com). Mirrors the main site's push-to-deploy flow, but keeps
+# the existing gh-pages serving setup so the live custom domain is never
+# disrupted by a Pages-source switch.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One deploy at a time; don't cancel an in-progress one.
+concurrency:
+  group: blog-pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with PaperMod submodule)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.159.0"
+          extended: true
+
+      - name: Build
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: hugo --gc --minify
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          # static/CNAME -> public/CNAME keeps blog.cyberforks.com pinned.
+          commit_message: "Deploy: ${{ github.event.head_commit.message }}"
