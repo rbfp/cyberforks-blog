@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ai-Agents on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/ai-agents/</link>
+    <description>Recent content in Ai-Agents on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/ai-agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Day Our AI Fleet Fixed Its Own Tooling</title>
+      <link>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</guid>
+      <description>A blind spot in our own tooling, root-caused and shipped in one afternoon — and the tool caught its author&amp;rsquo;s mistake the second it went live.</description>
+    </item>
+  </channel>
+</rss>
