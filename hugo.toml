@@ -46,10 +46,6 @@ enableEmoji = true
     apple_touch_icon = "/apple-touch-icon.png"
     theme_color = "#fbf7f4"
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/rbfp"
-
   [params.schema]
     type = "Organization"
     [params.schema.organization]
