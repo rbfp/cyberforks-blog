@@ -106,11 +106,9 @@ If you want it, it's at [github.com/rbfp/girlog](https://github.com/rbfp/girlog)
 
 ## Why this might be relevant to you
 
-If you're running AI agents or thinking about it — for your firm, your back office, your client work — observability is the thing that turns "I built a cool thing" into "I run it in production." Anyone can spin up a daemon. Watching it, hardening it, recovering it when it fails, knowing what it actually did, deciding when it should ask permission — that's the real work.
+If you're running AI agents or thinking about it, observability is the thing that turns "I built a cool thing" into "I run it in production." Anyone can spin up a daemon. Watching it, hardening it, recovering it when it fails, knowing what it actually did, deciding when it should ask permission — that's the real work.
 
-Cyberforks does AI implementation with security baked in. We help offices in the LA area adopt AI tools — Microsoft Copilot, ChatGPT Enterprise, Gemini for Workspace — without the data-leakage, governance, and audit-logging gaps that come standard with "just turn it on." We write the policy, we configure the guardrails, we set up the observability, we make sure the AI doesn't quietly become your firm's largest unmanaged risk.
-
-If that's a conversation you want to have, [we can have it](mailto:robert@cyberforks.com). The agents will be watching.
+The agents will be watching.
 
 — Robert Cao
 
