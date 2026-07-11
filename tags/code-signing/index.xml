@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ai-Agents on Cyberforks</title>
-    <link>https://blog.cyberforks.com/tags/ai-agents/</link>
-    <description>Recent content in Ai-Agents on Cyberforks</description>
+    <title>Code-Signing on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/code-signing/</link>
+    <description>Recent content in Code-Signing on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cyberforks.com/tags/ai-agents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cyberforks.com/tags/code-signing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Grant That Keeps Evaporating: TCC, Code Signing, and AI Agents on macOS</title>
       <link>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</guid>
       <description>How to let a headless AI agent read and write your Reminders and Calendar on macOS — the bundle-identity trick that makes TCC grant access, and the code-signing tax nobody warns you about.</description>
-    </item>
-    <item>
-      <title>The Day Our AI Fleet Fixed Its Own Tooling</title>
-      <link>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</guid>
-      <description>A blind spot in our own tooling, root-caused and shipped in one afternoon — and the tool caught its author&amp;rsquo;s mistake the second it went live.</description>
     </item>
   </channel>
 </rss>

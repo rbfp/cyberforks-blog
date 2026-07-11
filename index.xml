@@ -6,8 +6,15 @@
     <description>Recent content on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Grant That Keeps Evaporating: TCC, Code Signing, and AI Agents on macOS</title>
+      <link>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</guid>
+      <description>How to let a headless AI agent read and write your Reminders and Calendar on macOS — the bundle-identity trick that makes TCC grant access, and the code-signing tax nobody warns you about.</description>
+    </item>
     <item>
       <title>The Day Our AI Fleet Fixed Its Own Tooling</title>
       <link>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</link>
