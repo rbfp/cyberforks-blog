@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.cyberforks.com/tags/ai-agents/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/automation/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/macos/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.cyberforks.com/tags/agents/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/ai/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/observability/</loc>
@@ -20,13 +38,7 @@
     <loc>https://blog.cyberforks.com/tags/open-source/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/posts/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/python/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/watching-the-watchers/</loc>
@@ -46,9 +58,6 @@
   </url><url>
     <loc>https://blog.cyberforks.com/tags/tutorial/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/automation/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/productivity/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
