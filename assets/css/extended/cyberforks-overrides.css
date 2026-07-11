@@ -74,8 +74,10 @@ nav a:hover { color: var(--accent) !important; }
 
 /* light code blocks (previously dark) */
 code { background: var(--code-bg) !important; border: 1px solid var(--border) !important; color: var(--primary) !important; border-radius: 3px; font-size: .85em; }
-pre { background: var(--code-bg) !important; border: 1px solid var(--border) !important; border-radius: 6px !important; }
-pre code { border: none !important; color: var(--primary) !important; background: 0 0 !important; }
+/* Fenced blocks: kill the dark Chroma (catppuccin-macchiato) theme — force light bg + dark text,
+   including the .highlight wrapper, pre.chroma, and every token span, or you get black-on-black. */
+pre, pre.chroma, .highlight, .highlight pre, .highlight > .chroma { background: var(--code-bg) !important; border: 1px solid var(--border) !important; border-radius: 6px !important; }
+pre code, pre.chroma code, .chroma, .chroma code, .chroma span { border: none !important; color: var(--primary) !important; background: transparent !important; }
 
 footer { border-top: 1px solid var(--border) !important; color: var(--secondary) !important; background: var(--theme) !important; }
 footer a { color: var(--accent) !important; }
