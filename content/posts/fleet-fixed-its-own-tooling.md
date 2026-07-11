@@ -1,7 +1,7 @@
 ---
 title: "The Day Our AI Fleet Fixed Its Own Tooling"
 date: 2026-07-10
-draft: true
+draft: false
 tags: ["ai-agents", "automation", "claude-code", "macos"]
 summary: "A blind spot in our own tooling, root-caused and shipped in one afternoon — and the tool caught its author's mistake the second it went live."
 ---
@@ -34,7 +34,7 @@ The data was already in the binary — the code that powered `today` fetched *ev
 
 ```
 gir-reminders upcoming                       # the whole board, sorted by date
-gir-reminders upcoming --tag "[cyberforks]"  # one daemon's slice
+gir-reminders upcoming --tag "[research]"    # one daemon's slice
 gir-reminders upcoming --by-daemon           # grouped: yours vs everyone's
 gir-reminders upcoming --raw                 # machine-readable, with IDs
 ```
@@ -43,7 +43,7 @@ The default is a clean, human-readable "here's your week." The `--raw` flag hand
 
 It shipped that afternoon. And then it did the thing good tooling does: it immediately embarrassed its author.
 
-The first real `upcoming` run surfaced a **duplicate** — one daemon had filed the same test task twice on two different days, because when it added the second it couldn't see the first. It also surfaced a **ghost**: an un-tagged reminder that had been sitting on the board with no owner. Both had been invisible an hour earlier. The tool caught mistakes made *because the tool didn't exist yet*. That is the whole argument for building it, delivered on day one.
+The first real `upcoming` run surfaced a **duplicate** — one of the daemons had filed the same routine task onto the board twice, on two different days, because when it added the second copy it couldn't see the first. It also surfaced a **ghost**: an un-tagged reminder sitting on the board with no owner. Both had been invisible an hour earlier. The tool caught mistakes the fleet had made *because the tool didn't exist yet* — the thing it was built to prevent, prevented, on day one. That is the whole argument for building it.
 
 ## The part nobody warns you about: TCC
 
