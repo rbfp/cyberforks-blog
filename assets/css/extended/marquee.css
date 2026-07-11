@@ -30,3 +30,14 @@
 @media (prefers-reduced-motion: reduce) {
   .aaa-marquee__inner { animation: none; }
 }
+
+/* Small caption above the marquee ("Other names I liked for the title"). */
+.aaa-marquee-label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  opacity: 0.55;
+  margin-bottom: 0.35rem;
+  text-transform: none;
+}

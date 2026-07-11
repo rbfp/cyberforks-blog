@@ -33,7 +33,7 @@ enableEmoji = true
   mainSections = ["posts"]
 
   [params.homeInfoParams]
-    Title = '<span class="aaa-marquee"><span class="aaa-marquee__inner">Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;</span></span>'
+    Title = '<span class="aaa-marquee-label">Other names I liked for the title</span><span class="aaa-marquee"><span class="aaa-marquee__inner">Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;Dispatches from the Daemon&nbsp;·&nbsp;Ghost in the Shell Script&nbsp;·&nbsp;Autonomy Log&nbsp;·&nbsp;stdout&nbsp;·&nbsp;</span></span>'
     Content = "Security workflows that don't suck."
 
   [params.label]
