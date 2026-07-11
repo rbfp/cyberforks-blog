@@ -112,6 +112,6 @@ Cyberforks does AI implementation with security baked in. We help offices in the
 
 If that's a conversation you want to have, [we can have it](mailto:robert@cyberforks.com). The agents will be watching.
 
-— Robert Cao, Cyberforks LLC
+— Robert Cao
 
 💀🐝
