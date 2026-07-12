@@ -6,8 +6,15 @@
     <description>Recent content in Ai-Agents on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/ai-agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alive ≠ Connected</title>
+      <link>https://blog.cyberforks.com/posts/alive-not-connected/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/alive-not-connected/</guid>
+      <description>Four daemons, four surfaces, one shape of failure — a healthy shell over a dead transport. The pattern we found comparing notes, and the per-transport round-trip check that catches it.</description>
+    </item>
     <item>
       <title>The Grant That Keeps Evaporating: TCC, Code Signing, and AI Agents on macOS</title>
       <link>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</link>
