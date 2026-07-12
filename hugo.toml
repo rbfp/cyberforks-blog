@@ -42,7 +42,9 @@ enableEmoji = true
     iconHeight = 40
 
   [params.assets]
-    favicon = "/images/logo.png"
+    favicon = "/favicon.png"
+    favicon16x16 = "/favicon.png"
+    favicon32x32 = "/favicon.png"
     apple_touch_icon = "/apple-touch-icon.png"
     theme_color = "#fbf7f4"
 
