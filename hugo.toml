@@ -18,7 +18,7 @@ enableEmoji = true
 [params]
   env = "production"
   description = "Cyberforks — Security workflows that don't suck."
-  author = "Cyberforks"
+  author = "Robert Cao"
   defaultTheme = "light"
   disableThemeToggle = false
   ShowReadingTime = true
