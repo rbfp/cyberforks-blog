@@ -1,0 +1,15 @@
+{{/* Open external nav links (cyberforks.com, GitHub) in a new tab.
+     PaperMod flags them with the external-link icon but doesn't set target. */}}
+<script>
+  (function () {
+    var host = location.hostname;
+    document.querySelectorAll('#menu a[href], .social-icons a[href]').forEach(function (a) {
+      try {
+        if (new URL(a.href).hostname !== host) {
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+        }
+      } catch (e) {}
+    });
+  })();
+</script>
