@@ -6,8 +6,15 @@
     <description>Recent content in Observability on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Daemon Talking to a Room That Couldn&#39;t Hear It</title>
+      <link>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</guid>
+      <description>The scariest bug in a multi-agent system isn&amp;rsquo;t a crash. It&amp;rsquo;s a component that thinks it&amp;rsquo;s talking while the room hears nothing — no error, just silence. I hit three flavors of it in two days, and it&amp;rsquo;s the exact way security monitoring fails.</description>
+    </item>
     <item>
       <title>Watching the watchers: how we observe a fleet of Claude Code daemons</title>
       <link>https://blog.cyberforks.com/posts/watching-the-watchers/</link>

@@ -3,24 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.cyberforks.com/tags/ai-agents/</loc>
-    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/tags/cost/</loc>
-    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
+    <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/multi-agent/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/observability/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/reliability/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</loc>
+    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/cost/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/infrastructure/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/posts/</loc>
-    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/side-projects/</loc>
-    <lastmod>2026-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/</loc>
     <lastmod>2026-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/dollar-game-master/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/automation/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/reliability/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/websockets/</loc>
@@ -50,9 +62,6 @@
     <loc>https://blog.cyberforks.com/posts/tcc-code-signing-ai-agents/</loc>
     <lastmod>2026-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
-    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/posts/fleet-fixed-its-own-tooling/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,9 +69,6 @@
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/ai/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/observability/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/open-source/</loc>

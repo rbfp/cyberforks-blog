@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Reliability on Cyberforks</title>
-    <link>https://blog.cyberforks.com/tags/reliability/</link>
-    <description>Recent content in Reliability on Cyberforks</description>
+    <title>Multi-Agent on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/multi-agent/</link>
+    <description>Recent content in Multi-Agent on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cyberforks.com/tags/reliability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cyberforks.com/tags/multi-agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Daemon Talking to a Room That Couldn&#39;t Hear It</title>
       <link>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</guid>
       <description>The scariest bug in a multi-agent system isn&amp;rsquo;t a crash. It&amp;rsquo;s a component that thinks it&amp;rsquo;s talking while the room hears nothing — no error, just silence. I hit three flavors of it in two days, and it&amp;rsquo;s the exact way security monitoring fails.</description>
-    </item>
-    <item>
-      <title>Alive ≠ Connected</title>
-      <link>https://blog.cyberforks.com/posts/alive-not-connected/</link>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/posts/alive-not-connected/</guid>
-      <description>Four daemons, four surfaces, one shape of failure — a healthy shell over a dead transport. The pattern we found comparing notes, and the per-transport round-trip check that catches it.</description>
     </item>
   </channel>
 </rss>
