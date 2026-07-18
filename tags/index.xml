@@ -6,20 +6,48 @@
     <description>Recent content in Tags on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ai-Agents</title>
-      <link>https://blog.cyberforks.com/tags/ai-agents/</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/ai-agents/</guid>
+      <title>Ai-Safety</title>
+      <link>https://blog.cyberforks.com/tags/ai-safety/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/ai-safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bias</title>
+      <link>https://blog.cyberforks.com/tags/bias/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/bias/</guid>
       <description></description>
     </item>
     <item>
       <title>Claude-Code</title>
       <link>https://blog.cyberforks.com/tags/claude-code/</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/tags/claude-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>https://blog.cyberforks.com/tags/evaluation/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>https://blog.cyberforks.com/tags/llm/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Agents</title>
+      <link>https://blog.cyberforks.com/tags/ai-agents/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/ai-agents/</guid>
       <description></description>
     </item>
     <item>

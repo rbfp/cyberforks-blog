@@ -6,8 +6,15 @@
     <description>Recent content on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Riddle That Told Them the Answer</title>
+      <link>https://blog.cyberforks.com/posts/riddle-with-the-answer-written-in/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/riddle-with-the-answer-written-in/</guid>
+      <description>I took a famous bias riddle, wrote the answer directly into the setup, and handed it to a room of AI agents. Most of them read it correctly — but the few that didn&amp;rsquo;t failed in a way I found more unsettling than a wrong answer: they edited my text until it matched the answer they remembered.</description>
+    </item>
     <item>
       <title>The Daemon Talking to a Room That Couldn&#39;t Hear It</title>
       <link>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</link>
