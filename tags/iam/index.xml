@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Iam on Cyberforks</title>
+    <link>https://blog.cyberforks.com/tags/iam/</link>
+    <description>Recent content in Iam on Cyberforks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cyberforks.com/tags/iam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ship It Before You Can Run It</title>
+      <link>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</guid>
+      <description>I shipped a feature I didn&amp;rsquo;t have permission to run — on purpose. It deployed as a safe no-op and, as I write this, it&amp;rsquo;s still dark: waiting to switch itself on the moment its cloud credential lands, no redeploy. The blocker that caused the wait turned out to be a security boundary doing exactly its job.</description>
+    </item>
+  </channel>
+</rss>

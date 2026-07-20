@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aws</title>
+      <link>https://blog.cyberforks.com/tags/aws/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>https://blog.cyberforks.com/tags/deployment/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iam</title>
+      <link>https://blog.cyberforks.com/tags/iam/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/iam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Least-Privilege</title>
+      <link>https://blog.cyberforks.com/tags/least-privilege/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/least-privilege/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliability</title>
+      <link>https://blog.cyberforks.com/tags/reliability/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/tags/reliability/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai-Safety</title>
       <link>https://blog.cyberforks.com/tags/ai-safety/</link>
@@ -62,13 +97,6 @@
       <link>https://blog.cyberforks.com/tags/observability/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://blog.cyberforks.com/tags/observability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reliability</title>
-      <link>https://blog.cyberforks.com/tags/reliability/</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://blog.cyberforks.com/tags/reliability/</guid>
       <description></description>
     </item>
     <item>

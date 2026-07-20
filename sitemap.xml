@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.cyberforks.com/tags/aws/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/deployment/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/iam/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/least-privilege/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/reliability/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/</loc>
+    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.cyberforks.com/tags/ai-safety/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,19 +38,10 @@
     <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/</loc>
-    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/evaluation/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/llm/</loc>
-    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/posts/</loc>
-    <lastmod>2026-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/</loc>
     <lastmod>2026-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/riddle-with-the-answer-written-in/</loc>
@@ -36,9 +54,6 @@
     <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/observability/</loc>
-    <lastmod>2026-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/reliability/</loc>
     <lastmod>2026-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/daemon-talking-to-empty-room/</loc>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ship It Before You Can Run It</title>
+      <link>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</guid>
+      <description>I shipped a feature I didn&amp;rsquo;t have permission to run — on purpose. It deployed as a safe no-op and, as I write this, it&amp;rsquo;s still dark: waiting to switch itself on the moment its cloud credential lands, no redeploy. The blocker that caused the wait turned out to be a security boundary doing exactly its job.</description>
+    </item>
     <item>
       <title>The Riddle That Told Them the Answer</title>
       <link>https://blog.cyberforks.com/posts/riddle-with-the-answer-written-in/</link>
