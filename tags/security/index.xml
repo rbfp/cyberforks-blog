@@ -6,8 +6,15 @@
     <description>Recent content in Security on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Renting Holes in Your Firewall</title>
+      <link>https://blog.cyberforks.com/posts/stop-renting-holes-in-your-firewall/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/stop-renting-holes-in-your-firewall/</guid>
+      <description>I spent an afternoon chasing a firewall rule that kept breaking, and the fix that finally stuck was deleting the port behind it off the public internet entirely. Source-IP allowlists are a maintenance treadmill that quietly rots into someone else&amp;rsquo;s access — here&amp;rsquo;s the inversion that ends it.</description>
+    </item>
     <item>
       <title>Prompt Injection Is Real — Here&#39;s How I Defend Against It</title>
       <link>https://blog.cyberforks.com/posts/prompt-injection-defense/</link>

@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.cyberforks.com/tags/aws/</loc>
-    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/homelab/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/networking/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/security/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/ssh/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/stop-renting-holes-in-your-firewall/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/zero-trust/</loc>
+    <lastmod>2026-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/aws/</loc>
     <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/deployment/</loc>
@@ -17,16 +41,10 @@
     <loc>https://blog.cyberforks.com/tags/least-privilege/</loc>
     <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/posts/</loc>
-    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/reliability/</loc>
     <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</loc>
-    <lastmod>2026-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/</loc>
     <lastmod>2026-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/ai-safety/</loc>
@@ -147,9 +165,6 @@
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/promptinjection/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/security/</loc>
     <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/selfhosted/</loc>
