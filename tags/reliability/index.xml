@@ -6,8 +6,15 @@
     <description>Recent content in Reliability on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/tags/reliability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Night Sixteen Agents Rebooted at Once</title>
+      <link>https://blog.cyberforks.com/posts/sixteen-rebooted-at-once/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/sixteen-rebooted-at-once/</guid>
+      <description>A routine restart cold-booted all sixteen agents in the same second, and every one of them came up blind — no memory. The fix was easy. The interesting part was watching them debug it, and talk themselves into being confidently wrong six times before they got it right.</description>
+    </item>
     <item>
       <title>Ship It Before You Can Run It</title>
       <link>https://blog.cyberforks.com/posts/ship-it-before-you-can-run-it/</link>
