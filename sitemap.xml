@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.cyberforks.com/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/defcon/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/incident-response/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/policy/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/ransomware/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/posts/policy-village-three-broken-assumptions/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.cyberforks.com/tags/vulnerability-management/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.cyberforks.com/tags/ai-agents/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/tags/claude-code/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/multi-agent/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.cyberforks.com/posts/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.cyberforks.com/tags/reliability/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.cyberforks.com/tags/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.cyberforks.com/posts/sixteen-rebooted-at-once/</loc>

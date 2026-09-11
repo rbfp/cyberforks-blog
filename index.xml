@@ -6,8 +6,15 @@
     <description>Recent content on Cyberforks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cyberforks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Talks, Three Broken Assumptions</title>
+      <link>https://blog.cyberforks.com/posts/policy-village-three-broken-assumptions/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.cyberforks.com/posts/policy-village-three-broken-assumptions/</guid>
+      <description>Policy Village at DEF CON 34 ran three separate sessions on three unrelated problems. All three turned out to be the same problem: rules calibrated to an assumption that stopped being true.</description>
+    </item>
     <item>
       <title>The Night Sixteen Agents Rebooted at Once</title>
       <link>https://blog.cyberforks.com/posts/sixteen-rebooted-at-once/</link>
